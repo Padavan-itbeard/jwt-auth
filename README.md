@@ -44,3 +44,11 @@ HMACSHA256(
   base64UrlEncode(payload),
   secret)
 ```
+
+
+### Source
+- UlbiTV [Продвинутая JWT авторизация на React и Node js. Access, refresh, активация по почте](https://www.youtube.com/watch?v=fN25fMQZ2v0)
+- Sequelize [Docs](https://sequelize.org/docs/v6/getting-started/)
+- [Node.js, Express.js, and PostgreSQL: CRUD REST API example](https://blog.logrocket.com/nodejs-expressjs-postgresql-crud-rest-api-example/)
+- [15. Web-технологии. Сессии и авторизации | Технострим
+  ](https://www.youtube.com/watch?v=MwsW3X7dPtM)
